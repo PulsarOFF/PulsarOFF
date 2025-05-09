@@ -21,7 +21,16 @@
 
 ## 🛠️ Compétences techniques
 
-
+💡 Développement Web :
+→ HTML | CSS | JavaScript
+🐍 Programmation :
+→ Python (automatisation, scripts, bots)
+🌐 Réseaux :
+→ Cisco Packet Tracer, VOIP, configuration réseau
+🛡️ Cybersécurité :
+→ Connaissances solides en sécurité réseau et systèmes
+🖥️ Systèmes :
+→ Administration Debian/Linux
 
 
 ## 🎬 Ma chaîne YouTube
